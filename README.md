@@ -307,3 +307,19 @@ Interested in leveling up your AI game? Let's talk!
 (photo of a professional green screen TV studio)
 
 My ex colleagues and friends will know that I've been doing video production and editing for a decade now — mostly for sales enablement and internal comms. Low tech, my phone on a tripod and a shotgun microphone, iMovie and all that. So you can imagine my excitement yesterday spending all day at this professional studio doing recordings!
+
+---
+
+Another day, another AI breakthrough flooding our feeds. But let's be real - do we really need to know the nitty-gritty details of every new language model?
+
+If you're not neck-deep in AI development, most of this is just noise. I keep hearing people say, "I'm not technical, so I don't understand AI." But hold up - do you need to know how a combustion engine works to drive a car? Of course not.
+
+It's time we make AI as accessible as PowerPoint. The real challenge isn't creating an even smarter AI (though that's certainly interesting). It's about making that intelligence accessible, intuitive, and seamlessly integrated into the workflows of a marketing person, a recruiter, a doctor, a lawyer - and yes, a software engineer, too.
+
+So next time you see a post about some mind-blowing new AI capability, ask yourself: "Fascinating, but how can this actually help me in my day-to-day work?" Because at the end of the day, that's what really matters.
+
+Let's shift the conversation from "look how smart this AI is" to "look how smart this AI makes ME." What do you think?
+
+[ This post was written by an AI that was trained on my writing style, my LinkedIn posts from the last couple of months, and some minimal input on what I want to discuss. Does it sound like me? ]
+
+---
