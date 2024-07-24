@@ -352,3 +352,12 @@ Take the language model that aces all the benchmarks, it will only be useful whe
 
 It's great that we now have so many capable language models to choose from, some of them you can deploy under your desk, on your phone, in the cloud, or use via API. The real opportunity now is all about how you plug this into your workflows and systems to make actual impact!
 
+---
+
+Such a pleasure connecting with Professor Eric Grimson from MIT again after more than a decade. Back then, I was part of MIT's first-ever MOOC – a 3-month intense course called "Introduction to Computer Science and Programming (6.00x)." I think the team at MIT was literally building the course as we were taking it – now that is innovation! I probably invested ~20 hours a week on the course, and the MIT certificate I received at the end is something I am holding with pride to this day.
+
+Recently, my colleagues at National University of Singapore invited me to Eric's masterclass in Singapore on generative AI in education. It's fascinating to see what's now possible in education, from AI programming assistants to rubber-duck debugging and quantum systems explainers. Imagine students practicing public speaking with AI feedback or getting Socratic tutoring for physics!
+
+I talk about human-AI collaboration a lot, and while our friends at MIT (probably the geekiest college ever?) have a couple of deep tech projects cooking in the AI space, the key piece here is about thoughtful, ethical integration that enhances learning without students outsourcing their entire cognitive process to AI. It's about finding ways to leverage AI as a tool for deeper understanding and skill development, and ultimately, becoming AI-powered scientists that can push the boundaries of human knowledge.
+
+And yes, I got to give Eric a copy of my latest book "Neurons & Nonsense", let's see what he says! 😉
