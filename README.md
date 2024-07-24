@@ -323,3 +323,32 @@ Let's shift the conversation from "look how smart this AI is" to "look how smart
 [ This post was written by an AI that was trained on my writing style, my LinkedIn posts from the last couple of months, and some minimal input on what I want to discuss. Does it sound like me? ]
 
 ---
+
+Katong AI Night is next week!
+
+With senior executives from enterprises, big tech, media, venture builders, and startups attending, this promises to be a very special meetup – no slides, no pitches - just real people connecting in the real world at an inspiring venue in the East of Singapore.
+
+I'm particularly excited about the fireside chat we'll have with Sabrina, Ian, and Keith on AI and the future of humanity led by Natasha.
+
+We've limited this to just 55 participants to keep things intimate and meaningful. The event's already sold out, but if you're interested in sponsoring pizza and nibbles for the night, I might just have a VIP ticket with your name on it.
+
+See you in Joo Chiat!
+
+---
+
+Singapore, central business district. A global financial hub, yes, but also there's this black upright piano sitting at the MRT station. As a creative geek, I love that we're sneaking art into unexpected places.
+
+So... every now and then, when time permits, I play a couple of tunes on this piano. Often still with my backpack on, also practicing that tricky Handel piece. I like the idea that I may make some random passerby's time a tiny bit better.
+
+And sometimes I even make a new friend there – in the real world, with no AI or apps involved. In fact, I think as AI advances, our human qualities become even more crucial. Creativity, empathy, and adaptability are just some of them. We're capable of so many things that AI will never be able to do!
+
+---
+
+Another breakthrough, another large language model releases with incredible specs. But here's the thing – it's still just a computer brain on a plate. No eyes, no ears, no hands, no legs. It can't see, can't learn, can't do anything on its own.
+
+Without connecting it to other systems and the real world, even the shiniest LLM is just a pattern recognition engine in an ivory tower. You have to plug it in, give it ways to talk to humans, do web searches, store information long-term (because these 'brains' can't even do that on their own).
+
+Take the language model that aces all the benchmarks, it will only be useful when you connect it to machines and humans. These times when you think you're talking with a language model, you're actually interacting with a complex system with user interfaces built around those core language model. This is where the tech giants have an advantage - they can just plug an LLM into their Google Search or WhatsApp and you get the interfaces you know: ChatGPT, Gemini, Copilot. For enterprise companies, it's about using their various data pots and familiar interfaces like Microsoft Teams or Slack to integrate AI capabilities into existing workflows and tools, then iteratively improving and expanding those integrations based on user feedback and evolving business needs.
+
+It's great that we now have so many capable language models to choose from, some of them you can deploy under your desk, on your phone, in the cloud, or use via API. The real opportunity now is all about how you plug this into your workflows and systems to make actual impact!
+
