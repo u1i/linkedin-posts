@@ -361,3 +361,15 @@ Recently, my colleagues at National University of Singapore invited me to Eric's
 I talk about human-AI collaboration a lot, and while our friends at MIT (probably the geekiest college ever?) have a couple of deep tech projects cooking in the AI space, the key piece here is about thoughtful, ethical integration that enhances learning without students outsourcing their entire cognitive process to AI. It's about finding ways to leverage AI as a tool for deeper understanding and skill development, and ultimately, becoming AI-powered scientists that can push the boundaries of human knowledge.
 
 And yes, I got to give Eric a copy of my latest book "Neurons & Nonsense", let's see what he says! 😉
+
+---
+
+AI is disruptive, there is no doubt about it. But often AI gives us capabilities we never had in the first place.
+
+
+
+Take me, for example. I can build complex AI systems, but I also hopelessly get lost in a shopping mall or, after more than a dozen years in Singapore, still walk the wrong way on Orchard Road. See that arrow rendered into the real world through my phone? I'd probably still be wandering around if it weren't for Google Maps Live View with this useful AI/VR feature.
+
+
+
+So here, AI is not making me dumber; it's filling a gap in my skill set that's been there since... well, forever. How about you? Maybe you struggle with writer's block, find it challenging to organize your thoughts, or need assistance in conducting thorough research. Perhaps you're looking for help with generating creative ideas or even just need a nudge to stay on track with your projects. Maybe all of that? Instead of AI replacing humans, let's talk about how AI can be a great ally in enhancing our productivity and creativity. Or, like in my case, helping me navigate the labyrinths of urban life!
