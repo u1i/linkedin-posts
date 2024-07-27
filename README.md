@@ -366,10 +366,20 @@ And yes, I got to give Eric a copy of my latest book "Neurons & Nonsense", let's
 
 AI is disruptive, there is no doubt about it. But often AI gives us capabilities we never had in the first place.
 
-
-
 Take me, for example. I can build complex AI systems, but I also hopelessly get lost in a shopping mall or, after more than a dozen years in Singapore, still walk the wrong way on Orchard Road. See that arrow rendered into the real world through my phone? I'd probably still be wandering around if it weren't for Google Maps Live View with this useful AI/VR feature.
 
-
-
 So here, AI is not making me dumber; it's filling a gap in my skill set that's been there since... well, forever. How about you? Maybe you struggle with writer's block, find it challenging to organize your thoughts, or need assistance in conducting thorough research. Perhaps you're looking for help with generating creative ideas or even just need a nudge to stay on track with your projects. Maybe all of that? Instead of AI replacing humans, let's talk about how AI can be a great ally in enhancing our productivity and creativity. Or, like in my case, helping me navigate the labyrinths of urban life!
+
+---
+
+Is AI this mind-blowing, super-smart thing, or a mere pattern recognition machine that often just churns out nonsensical results? It seems to be ... both!
+
+Take this little experiment I did recently, where I asked Claude.AI to recreate the classic Nokia game "snake", but I also threw in a twist: make the food change colors, and have the snake adopt these colors when it eats. And you know what? Claude not only understood my request, but got it correctly and produced the HTML/JavaScript code on the first try. Not bad for a "mere machine," right?
+
+But here's where it gets weird. This same AI that just aced a coding challenge might turn around and forget what it said two messages ago, or get stuck in an endless loop of "I apologize" like a broken record. It's like having a colleague who's a genius one minute and can't remember where they put their coffee the next.
+
+This whole situation is forcing us to think about AI differently. It's not just another tool in the box - my trusty screwdriver never offered to brainstorm ideas or iterate on a design (though that would be pretty cool). Instead, we're dealing with a very alien form of intelligence that's becoming a sort of digital collaborator.
+
+And let me tell you, it's making things interesting, since now you have to figure out how to work effectively with something that might outthink you on a complex problem but need hand-holding through a simple conversation. I think we can't just rely on AI as a "tool" that does everything for us; we have to learn how to work with it and get used to its quirks. And – there's no quick one-hour course you can take, you'll need to find the best way that works for you. Once you understand its limitations and strengths, you'll get better at leveraging its potential to complement your skills. The key is to keep experimenting and adapting, finding that right balance where your human intuition and machine precision coexist and give you the best results.
+
+Oh, and I know what you're thinking - "Where can I play that snake game you created with AI?" Find the link in the comments, give it a go, and let me know if you can beat your old Nokia high score!
