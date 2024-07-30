@@ -383,3 +383,31 @@ This whole situation is forcing us to think about AI differently. It's not just 
 And let me tell you, it's making things interesting, since now you have to figure out how to work effectively with something that might outthink you on a complex problem but need hand-holding through a simple conversation. I think we can't just rely on AI as a "tool" that does everything for us; we have to learn how to work with it and get used to its quirks. And – there's no quick one-hour course you can take, you'll need to find the best way that works for you. Once you understand its limitations and strengths, you'll get better at leveraging its potential to complement your skills. The key is to keep experimenting and adapting, finding that right balance where your human intuition and machine precision coexist and give you the best results.
 
 Oh, and I know what you're thinking - "Where can I play that snake game you created with AI?" Find the link in the comments, give it a go, and let me know if you can beat your old Nokia high score!
+
+---
+
+I'm excited to launch naida, an idea that's been brewing in my mind for some time now: driving successful AI adoption across enterprises and startups, bridging innovation gaps and creating collaborative ecosystems for transformative impact.
+
+To the bold leaders driving their organizations into the AI future: You've already achieved incredible things. You've embraced change, pushed boundaries, and positioned your company at the forefront of innovation. But in this rapidly evolving landscape, even super heroes need allies.
+
+As the AI revolution accelerates, you're facing new challenges. Do you feel like you're drowning in a sea of disconnected AI initiatives? Are you getting a headache when you're thinking about how to prepare your workforce for an AI-driven future? And of course, are you wondering how to turn all this talk about AI potential into real business impact?
+
+naida isn't just another AI company. We're that strategic ally for navigating these challenges. We're here to help you leverage the collective genius of your own teams, cutting-edge startups, and industry innovators so you can build an AI-ready organization that drives real, measurable outcomes.
+
+Now, if you click on the company profile (I really hope you do, and while you're there, could you do me a favor and click the 'follow' button?), you'll see that the naida team currently appears to be just me. I assure you, while I can't achieve miracles alone (at least not every day 😉 ), it's really about working strategically, creating partnerships, and solving problems together. It may look like a one-man show, but if you've worked with me, you know the networks I can tap into and how quickly we can get things done.
+
+Intrigued? Let's connect. My calendar and project pipeline is filling quickly with forward-thinking leaders who want to get started, but I'm always keen to explore new opportunities and collaborations!
+
+---
+
+Alright. Let's start this Tuesday with a challenge. Let's say I have a $1,500 in AI credits with a top-tier LLM provider, but they're expiring in exactly 2.5 days from now. How can we put them to good use before they disappear?
+
+• We can't donate them.
+• We don't want to waste them on useless tasks or just burning compute cycles (bad for the environment).
+• No, you can't get the API keys.
+• This isn't hypothetical. If the idea is feasible + impactful, we can team up and build it.
+• Available APIs include LLMs, text-to-speech, transcription, and image generation.
+
+So, what would YOU do with these credits? Looking for impactful, innovative ideas that can be executed quickly and create real value.
+
+Drop your ideas in the comments please!
