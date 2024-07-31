@@ -411,3 +411,30 @@ Alright. Let's start this Tuesday with a challenge. Let's say I have a $1,500 in
 So, what would YOU do with these credits? Looking for impactful, innovative ideas that can be executed quickly and create real value.
 
 Drop your ideas in the comments please!
+
+---
+
+"Hey ChatGPT, I've told you ten times already not to suggest article titles that have colons in it!" – "I apologize for the repeated mistake. Let's ..."
+
+Waaaaaaaah!!!!
+
+I created two AI agents to solve a major challenge I have with LLMs: constantly having to correcting them. Instead of endless tweaks, I built a system where one agent enforces rules while the other generates creative ideas. And both agents have their own 'personas' and collaborate with each other to refine the output.
+
+Here’s how it works:
+
+• I start with specific instructions like, “give me 10 article titles about robotics and AI impacting the workforce. I do NOT WANT COLONS in the article title.”
+• The Creative Agent jumps in with a couple of suggestions.
+• The Director Agent reviews each one, ensuring they follow my guidelines—no colons allowed.
+• If the titles pass, they’re good to go. If not, they get sent back with feedback for another round.
+• This loop continues until I get perfect, guideline-compliant titles. Or whatever else I instruct them to come up with!
+• No more back-and-forth frustration!
+
+These AI agents work together to save me time, hassle, and to be honest , save me from losing my mind over repetitive corrections.
+
+Check out these bits from their conversation:
+
+Creative Agent: "Sure, here are 10 innovative and diverse article title suggestions about robotics and AI and their impact on the workforce..."
+Director Agent: "Thank you for your suggestions. According to the user's specific instructions, the article titles must not contain colons. Here is the feedback for each suggestion..."
+Creative Agent: "Thank you for the detailed feedback. Based on the guidance to avoid colons and craft creative and innovative titles, here are new suggestions..."
+
+Let's talk about how can we can make this work in the things you are building!
