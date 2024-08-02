@@ -438,3 +438,23 @@ Director Agent: "Thank you for your suggestions. According to the user's specifi
 Creative Agent: "Thank you for the detailed feedback. Based on the guidance to avoid colons and craft creative and innovative titles, here are new suggestions..."
 
 Let's talk about how can we can make this work in the things you are building!
+
+---
+
+I'm looking for a seasoned React Native or Flutter developer to join me for a project - not a full-time position yet. You should know iOS and Android inside out and be current with the latest platform updates. The goal: take an idea to a live app in the Google Play Store and Apple App Store within weeks. You must have done this before.
+
+Ideally, you're based in Singapore, Vietnam, Malaysia, or Indonesia. If we've worked together before, ping me. If not, send me your GitHub or links to your apps in Google Play or App Store.
+
+Let’s build something great!
+
+---
+
+Everybody has a book inside them. You too.
+
+You've always wanted to write a book, but life gets in the way, right? And even if you have the time, where do you start? Writer’s block, figuring out how to structure your thoughts, actually putting words on the page – it can be daunting. Let’s team up and get your book published!
+
+Now, I'm not talking about having AI write your book in 10 minutes and we slap your name on the cover – this is about you and AI working together as partners. Imagine AI helping you overcome writer's block, shaping your ideas into a cohesive structure, even drafting sections... and you develop and practice your AI skills along the way.
+
+Does it resonate with you? Let's chat! To be sure, we're talking about you publishing a book, so you'll absolutely have to invest time in the project, no surprise here. And to be upfront, this isn't a pro bono service on my end. If you're game, I'll show you how it works and together we can bring your book that's always been a nagging idea in your head ... onto the shelves!
+
+---
