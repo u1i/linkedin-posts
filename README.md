@@ -458,3 +458,31 @@ Now, I'm not talking about having AI write your book in 10 minutes and we slap y
 Does it resonate with you? Let's chat! To be sure, we're talking about you publishing a book, so you'll absolutely have to invest time in the project, no surprise here. And to be upfront, this isn't a pro bono service on my end. If you're game, I'll show you how it works and together we can bring your book that's always been a nagging idea in your head ... onto the shelves!
 
 ---
+
+It's another artsy Sunday!
+
+Text-to-image models must have "seen" an enormous amount of images and can produce just incredible things... we just have to tease it out of them. My usual recipe involves writing a deeply detailed prompt, it's almost like you're writing a short story or you're giving a painter some detailed steps for making a masterpiece. Then, I generate a lot of images using that prompt, using automation. And finally, I simply select the ones I like the most.
+
+Hope you enjoy these ones!
+
+---
+
+AI Coffee is tomorrow!
+
+We only have a few seats left, please register and join us in Telok Ayer!
+
+AI Coffee is a morning meetup series for anyone interested in AI. The idea is to bring AI professionals and enthusiasts together to discuss projects, challenges, and ideas over coffee. No slides, no pitches. Start your day with stimulating conversations in the AI space! You're not a tech person? Even better.
+
+I’m planning to bring AI Coffee to different locations around the island, including One North, the East, and the CBD. Stay tuned!
+
+---
+
+If you’re visiting offices in the Central Business District of Singapore, you know the drill: at each location, there's a different security system. You submit your ID, scan a QR code, and key in your phone number at a terminal, just to access the building. Or get an SMS, or something else. Once you reach the office floor, you repeat the process with yet another QR code. Or another terminal. Now imagine you visit 3 customers a day... madness!
+
+Where does all this data go? What do these systems achieve, and why is there so much friction in the process?
+
+AI initiatives can be like that. How can AI achieve its real impact that so many people are wanting to see if your business has all those fragmented AI implementations? Well, there is hope, companies are realizing that scattered projects often fall short of expectations and there must be a better way.
+
+To make a real impact, we need to shift our focus and agree on an AI strategy with a phased approach. AI should enhance understanding and efficiency at all levels of an organization, not just serve as isolated solutions. Let's integrate AI in a way that promotes learning and growth, and make sure it contributes to the big picture!
+
+---
