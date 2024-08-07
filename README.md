@@ -486,3 +486,13 @@ AI initiatives can be like that. How can AI achieve its real impact that so many
 To make a real impact, we need to shift our focus and agree on an AI strategy with a phased approach. AI should enhance understanding and efficiency at all levels of an organization, not just serve as isolated solutions. Let's integrate AI in a way that promotes learning and growth, and make sure it contributes to the big picture!
 
 ---
+
+You’ve seen the posts: AI can work miracles, AI doesn’t fulfill expectations. AI experts, AI entertainers – they’re all talking. But how about you form your own opinion?
+
+Join us on Saturday, August 17 for "Creative AI: Practical Workshop for Non-Techies" at Crane (OUE Downtown Gallery) in the heart of Singapore's CBD. This isn’t just another tech workshop. It's designed specifically for non-techies ready to explore AI’s practical applications in their everyday life and work. Whether you're into art, thinking about writing a book, or simply looking to improve your productivity, this is for you.
+
+Two experienced professionals, Ian and myself, will guide you through engaging activities to make AI work for you. All you need is a laptop and your curiosity.
+
+Let’s meet at this beautiful venue, discuss, learn, and most importantly, try things out for yourself. Because experiencing this firsthand is the best way to see what AI can really do for you.
+
+Are you in? Let me know and see you there!
