@@ -496,3 +496,29 @@ Two experienced professionals, Ian and myself, will guide you through engaging a
 Let’s meet at this beautiful venue, discuss, learn, and most importantly, try things out for yourself. Because experiencing this firsthand is the best way to see what AI can really do for you.
 
 Are you in? Let me know and see you there!
+
+---
+
+What if you want to combine the power of GPT-4 with Google Search?
+
+With ChatGPT, you’re probably tied to Bing. Gemini, on the other hand, might use Google for live search, but its language model or the interface may not meet your expectations. You’re stuck with what they choose for you. And there's more: even if you are a paying customer, you might hit usage limits, and your creativity has to wait for a couple of hours before you can continue. 
+
+Is there a better way? There is!
+
+Look at this screenshot – you can see from the result that this isn't a hallucination, and the info is too new to be part of the LLM’s training data. For example, it shows one of my recent LinkedIn posts about a job change. How is this possible?
+
+The key is modularity and APIs. A setup like this could decide on the spot which LLM to use (LLama, OpenAI, Anthropic, Gemini), which search engine to query, and what data source to pull from. And the result could be a unified user interface that’s intuitive for non-technical people while offering the flexibility to adapt to your specific needs. A modular approach like this protects private data, allows use of private models, and integrates with high-end proprietary LLMs as needed. It offers flexibility to create tailored solutions for various user types and evolving requirements, combining privacy, cost-effectiveness, and cutting-edge capabilities.
+
+Let’s talk about how we can make this work in your setup!
+
+---
+
+Welcome Daphne, our new Head of Strategic Partnerships, and Balaji, joining as Strategic Advisor at Electric Minds!
+
+Our non-profit AI initiative is growing, fueled by professionals who, despite busy day jobs, are passionate about making a real difference.
+
+Climate change, healthcare, education – the world's biggest challenges are too complex for any one person or company to solve alone. Some people say AI can work miracles. We need to find out if that’s true, but one thing I know for sure: it will only work if we build ecosystems that bring together diverse minds and resources.
+
+Want to be part of this collaborative effort? Check out our event calendar and join us in person if you can. Let's turn big ideas into impactful actions!
+
+---
