@@ -522,3 +522,44 @@ Climate change, healthcare, education – the world's biggest challenges are too
 Want to be part of this collaborative effort? Check out our event calendar and join us in person if you can. Let's turn big ideas into impactful actions!
 
 ---
+
+How often do you see posts on LinkedIn saying, "It was great to speak at this AI event yesterday," and think, "What? I hadn’t even heard about this event. I would have loved to be there!"
+
+Singapore is ... the center of the universe 😉 but it's still a small island. We should be able to keep ONE calendar up to date with all the relevant AI events happening here, you know, like a Yahoo! page from back in the day. The good news is: we already have that, and we just need your help to keep it up-to-date.
+
+Zahari and team are doing a fantastic job maintaining a calendar on Luma called "Singapore AI Events" and it's super easy to submit events to that one. If you're hosting AI events, or hear about any upcoming AI-related gatherings in Singapore, please help spread the word by adding them to this community calendar!
+
+AI may involve complex technology, but often, it's really just low-tech solutions like these that are the most effective for encouraging collaboration and knowledge sharing.
+
+Happy birthday, Singapore. Love you lots.
+
+---
+
+Well, this is one of the more technical LinkedIn posts – I'm excited to introduce Spock: a powerful, easy-to-use tool for inspecting and debugging API requests and webhooks.
+
+With many tools moving behind paywalls, developers need accessible options more than ever. The web landscape has changed, and security is a major concern, but essential tools for developers shouldn't be out of reach.
+I needed an efficient, free tool, so I created Spock. It offers a simple web interface for creating custom endpoints and examining incoming HTTP requests. You get real-time updates to view request headers, query parameters, form data, and raw body, supporting both HTTP and HTTPS connections.
+
+Spock is available on GitHub and can be easily run using Docker. Add ngrok or Caddy and you've got HTTPS and basic auth for admin. I think It's perfect for developers needing a reliable and secure way to monitor API traffic. Check it out on my GitHub and give it a spin! 🖖🏽
+
+---
+
+It's another artsy Sunday – with a twist!
+
+Recently, when I created another set of images using my technique of writing extremely detailed prompts and then producing dozens of images via the DALL-E API, I started to notice something interesting: it produced a diverse distribution of ages, genders, and cultural backgrounds among the people in the generated pieces.
+
+OpenAI seems to inject these instructions into your prompts, in order to diversify the representation and promote inclusivity in AI-generated imagery. What is their ratio? Well, I've only generated 50 images per prompt, so the data isn't strong enough for a robust analysis. But wouldn't that be a fun project to do with a larger dataset?
+
+Here is the image prompt – note the absence of any reference to specifics about the person:
+
+"On a sweet, aromatic clay canvas, illustrate a delightful bakery scene with a claymation baker and an array of clay pastries, cakes, and breads. The baker should be sporting a tall hat and apron, joyfully arranging treats in a display window. The bakery interior should feature shelves filled with colorful, textured baked goods, and the background elements like an oven and decorations add to the cozy, handcrafted feel."
+
+---
+
+Ian runs a dynamic branding and marketing agency out of Singapore, where they are blending talent and technology to power growth for B2B brands across Asia. AI has changed EVERYTHING for them. In fact, it has been so significant that they now can... hang on, you should hear the story directly from him as he takes the mic at our upcoming event!
+
+Following the incredible response and quick sell-out of "Katong AI Night", we’re excited to bring you the next edition of our unique, non-tech networking event – this time in Orchard!
+
+Join us for an evening where you'll hear more of these 10-minute stories on how AI is changing our world. At "Orchard AI Stories: Real People, Real Impact", we bring together an amazing mix of people from startups, big tech, media, venture builders, public sector, and more. Our popular format focuses on creating genuine networking opportunities, allowing you to make real-world connections and engage in meaningful conversations about the impact of AI.
+
+Sign up today, as seats a are limited. See you in Orchard!
