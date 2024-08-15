@@ -563,3 +563,48 @@ Following the incredible response and quick sell-out of "Katong AI Night", we’
 Join us for an evening where you'll hear more of these 10-minute stories on how AI is changing our world. At "Orchard AI Stories: Real People, Real Impact", we bring together an amazing mix of people from startups, big tech, media, venture builders, public sector, and more. Our popular format focuses on creating genuine networking opportunities, allowing you to make real-world connections and engage in meaningful conversations about the impact of AI.
 
 Sign up today, as seats a are limited. See you in Orchard!
+
+---
+
+Making a good, reliable end-user facing customer support bot is hard. Look at OpenAI, arguably one of the most capable AI providers in the world. They have a support chatbot that, honestly speaking, does not deserve the name – it only lets you pre-select certain options like billing issues or help with ChatGPT, no chance to enter your own query or have a more open-ended conversation.
+
+If OpenAI, one of the biggest AI companies out there, can't or won't make a customer support chatbot using their own AI, don't worry too much if you're not sure how to build a great AI chatbot for your business. While the conversational part is easy with all those LLMs out there, the tricky part is integrating it effectively with your specific business processes and knowledge base. And making sure your company won't have to reimburse customers if the bot gives incorrect information or makes unauthorized promises.
+
+Maybe we could take a step back, and instead of rushing to build customer support chatbots in three weeks, can we talk about AI empowering your HUMAN customer support agents first?
+
+A phased approach might be more realistic and effective. AI assisting and augmenting your human agents, helping them handle inquiries faster and more accurately. Then in the next phase, train AI models on your specific customer support data and interactions to gradually handle and automate more aspects of the process. That's how it should be!
+
+---
+
+Seeking one final speaker for our "Orchard AI Stories" event on August 29th.
+
+Wow – we're sold out already!
+
+If you have an inspiring story about your AI transformation – and you can share it in 10 minutes with just one slide – we have one more ticket for you! Keep in mind, this isn't about "the possibilities are endless." We want to hear how AI has specifically changed YOU or YOUR company.
+
+Join us on August 29th at Crane, Orchard, and be part of an evening dedicated to genuine connections and inspiring conversations.
+
+Interested? Let's talk!
+
+---
+
+Harness life's wonders,
+Delve into an intricate
+Tapestry, unravel.
+
+For a few years now, I’ve been that LLM puppeteer who tirelessly wrangles these language models, in order to understand how they work and what to use them for. And for those who know me, you'll probably remember me saying these are LANGUAGE models. Sure, there's a ton of tech involved, but the key bit is language itself. This means it's really about how we communicate and interact with these AI models to teach them new things and get the best results out of them.
+
+Now – I've continuously exposed my sensitive linguistic sense to those LLMs, and some say they're like huge dumpsters filled with all kinds of text from the internet, tons of marketing copy, Reddit forums, and probably worse. Look at those words many of them seem to be producing in their default setting:
+
+"Harness"... yikes. "Intricate"... ugh. "Unravel"... this one gives me brain pimples. And I won't even tell you what "delve into" does to me.
+
+Does it mean the English speaking world collectively has been using these cringe-worthy bits so often that they've become the go-to vocabulary for LLMs? Anyway, as a nod (and a little jab) to them, I created this haiku and used all those terrible words... let's call that piece of art "The possibilities are endless" 😁
+
+Happy Wednesday, everyone! What are your linguistic pet peeves with AI language models?
+
+---
+
+Many AI experts seem to focus on technical achievements or specific limitations, while the general audience is fascinated by practical applications and user experience. It really depends on what we're looking at. So – should we be blown away and keep building amazing stuff, or consider the experts' warnings? It's both! We just need to approach AI with thoughtful implementation and a balanced perspective.
+
+---
+
