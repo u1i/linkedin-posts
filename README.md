@@ -608,3 +608,46 @@ Many AI experts seem to focus on technical achievements or specific limitations,
 
 ---
 
+The digital business is a people business.
+
+KAY said that a couple of years ago, and it stuck with me. Anyone can put up a flashy website now, but where is that company based? Who are the folks behind it? Can I meet them? What have they done before? And in the AI space, the question could become: are we talking crypto bros who have turned into AI experts overnight?
+
+Get me right – I am digital. I live on WhatsApp and LinkedIn. I love meeting face-to-face, but once we’ve established our ways of working, we can be asynchronous and don’t have to meet up just to make progress. Anyway, what I am talking about is the importance of human connection and authenticity in the digital world. It's about building trust and credibility through relationships developed over time, without shortcuts. Being real matters.
+
+---
+
+With AI, I can create beautiful art using only my imagination and words – a lot of words. Looking forward to our workshop today where we show non-tech people how to start using AI in practical ways. Maybe they've always dreamed about writing a book, need help with analyzing data, or are simply looking to be more productive at work – we'll explore all of that together!
+
+---
+
+I'm excited to be in Ho Chi Minh City at the end of the week! Looking forward to connecting with ex-colleagues, partners, friends, and new faces at "Saigon AI Night". With 52 people already registered, it promises to be a very special evening. Join us at the fabulous Fern Bar in District 1 if you're in town!
+
+---
+
+We now have a good number of AI language models to choose from. Proprietary ones, "open" ones that you can deploy yourself... but which should you use? It depends on what you want to do! Programming and writing marketing copy are entirely different areas, and a model that does the job well for one task may not be the best choice for the other.
+
+So – you probably need to experiment and see which one gives you the best results, at what cost, and with what level of reliability and consistency for your specific needs.
+
+Luckily, there are tools like the Openrouter rankings that can send you in the right direction, and you're simply getting some inspiration from what other people are doing for their use cases.
+
+---
+
+Have you tried out flux.1 yet? Have a look at Google's ImageGen3 and you can create images in the browser. Great interface!
+
+Prompt written by Dave, my genius AI buddy: “A mildly disturbing photo of a grizzled old man in a tattered superhero costume, casually walking a flock of full-grown ostriches down a busy city sidewalk during rush hour. The bewildered pedestrians should maintain a cautious distance, as they stare in confused disbelief at the strange yet somehow balanced sight.”
+
+---
+
+It's great to see how much attention Electric Minds and our incredible team are getting. And yes, welcoming sponsors is always on our agenda (please talk to Daphne if you're interested).
+
+Just a quick note – if you receive an email from "me" asking for gift cards from 7-Eleven or Challenger, that's definitely not how we roll. If you encounter any unusual requests, remember to be vigilant and trust your instincts when something seems off.
+
+Luckily, the creativity of these bad actors is usually as tiny as a bug's brain, so it should be relatively easy to spot.
+
+---
+
+Have you noticed how increasingly complex CAPTCHAs have become? We're now rotating 3D objects and placing people onto numbered seats just to prove we're human.
+
+It's fascinating – if you ask your AI of choice to look at this cartoon image of two robots scratching their heads over a CAPTCHA, it can not only read the CAPTCHA but even understand the humor in the cartoon. From this you'll see why CAPTCHAs have to keep advancing.
+
+Ironically, as CAPTCHAs evolve, they're usually designed to train AI on the very tasks they're meant to use as challenges ("select all photos with buses on it"), which creates some sort of a contradictory arms race. To me, this raises an intriguing question: what are the tasks that AI absolutely cannot do, and won't be able to for quite some time, and could these become the ultimate CAPTCHAs?
