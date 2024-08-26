@@ -651,3 +651,17 @@ Have you noticed how increasingly complex CAPTCHAs have become? We're now rotati
 It's fascinating – if you ask your AI of choice to look at this cartoon image of two robots scratching their heads over a CAPTCHA, it can not only read the CAPTCHA but even understand the humor in the cartoon. From this you'll see why CAPTCHAs have to keep advancing.
 
 Ironically, as CAPTCHAs evolve, they're usually designed to train AI on the very tasks they're meant to use as challenges ("select all photos with buses on it"), which creates some sort of a contradictory arms race. To me, this raises an intriguing question: what are the tasks that AI absolutely cannot do, and won't be able to for quite some time, and could these become the ultimate CAPTCHAs?
+
+---
+
+Starting this Saturday morning with coffee near the old post office in Ho Chi Minh City, Vietnam. I bought a postcard and decided to send it to my parents – old school style. It's been years since I last did this.
+
+Even though I'm deeply into tech and digital transformations, I'll probably never stop treasuring our classic ways of communication. There's something special about a physical object, like a postcard, a paperback copy of a book. It reminds me how technology changes everything, especially how we communicate. Today, I can send a photo of my lunch to my mother in a second, across the globe. Yet, these old-fashioned postcards still hold a special place in my heart.
+
+---
+
+What can I tell you about Saigon AI Night? For one – you should have been there.
+
+That beautiful Fern Bar last Friday evening in Ho Chi Minh City: three speakers in 30 minutes, and we spent the rest of the night truly getting to know each other. My key takeaway? Vietnam is brimming with incredible tech talent, this one I know since years, but many of them have definitely arrived in the AI space. This means there's not much about the tools I need to teach them, so I spoke more about the need for tech folks to spend more time with their business colleagues to help them understand how AI works, so they can collaboratively develop solutions that drive real outcomes.
+
+Meeting in the real world, without the constraints of recordings or livestreams, allows for genuine and candid exchanges. It was a wonderful reminder of how powerful these connections can be. Thank you, Saigon!
