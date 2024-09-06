@@ -665,3 +665,89 @@ What can I tell you about Saigon AI Night? For one – you should have been ther
 That beautiful Fern Bar last Friday evening in Ho Chi Minh City: three speakers in 30 minutes, and we spent the rest of the night truly getting to know each other. My key takeaway? Vietnam is brimming with incredible tech talent, this one I know since years, but many of them have definitely arrived in the AI space. This means there's not much about the tools I need to teach them, so I spoke more about the need for tech folks to spend more time with their business colleagues to help them understand how AI works, so they can collaboratively develop solutions that drive real outcomes.
 
 Meeting in the real world, without the constraints of recordings or livestreams, allows for genuine and candid exchanges. It was a wonderful reminder of how powerful these connections can be. Thank you, Saigon!
+
+---
+
+Inspired by a sketch around a Venn diagram and the stereotypical roles in an organization, I was thinking about what this could look like in the AI world – so I came up with this one.
+
+Here, if you're into Python and SQL, you're probably a Data Scientist. Combine that SQL mastery with some business savvy, and you've got yourself a Machine Learning Engineer. Product Managers have a knack for both business and writing, while Prompt Engineers blend their way with words and, hopefully, a strong ethical compass.
+
+AI Ethicists are fueled by ethics and caffeine (a powerful combo!), and AI Researchers may as well be Python wizards fueled by endless espresso shots. But what if you've got all these skills? Well, then you're a unicorn – a rare and magical creature in the AI world.
+
+I hope you can smile about this tongue-in-cheek piece, but I hope it also makes you think about the incredible diversity of talents and personalities that need to come together to create AI applications that have a real impact. And isn't that what makes it so exciting?
+
+---
+
+With their generous free tier, Google's product approach to AI models is all about accessibility and getting widespread adoption. They're making it super easy for anyone to start with AI, try different models, and learn the ropes using AI Studio. It's a smart move that'll probably get Google's AI tools used in tons of courses and projects, with almost no barriers. Classic Google, right?
+
+It's fascinating to compare this with other business models, like Microsoft's partnership with OpenAI, which focuses on offering high-quality, pre-trained models as paid services. Microsoft's strategy will attract businesses and developers who prioritize performance and reliability, which is the right approach for enterprise-level AI solutions. Ultimately, finding a way to offer both accessibility and high-performance could be the key for AI to make a real impact on the world, not just generate profits.
+
+I find Google's commitment to accessibility and experimentation pretty awesome. Have you tried Gemini Flash yet?
+
+---
+
+Orchard AI Stories is happening tomorrow!
+
+An evening focused on real-world connections, with people from startups, big tech, media, venture builders, and the public sector getting together to share experiences and insights on AI's transformative impact.
+
+On stage we'll hear from Alex, Enjiao, Ian, Sabrina, and Thorsten. Each speaker will share a 10-minute story (using just 1 slide!) about how AI has transformed their lives, companies, or projects. Instead of discussing "endless possibilities," we'll hear from them about the real impact AI had on them.
+
+See you tomorrow!
+
+--
+
+Anthropic just released the system prompts for their large language models, and it's a fascinating look into how some of these AI tools are truly "written" rather than programmed.
+
+As we reach a point where technical capabilities are becoming increasingly similar across models, the real difference-maker is in the prompts that guide them. As a geek and writer, this is an intriguing convergence of technology and language. I mean, think about that for a moment: we are creating electronic brains and can use human language to steer their behavior.
+
+Take the system prompt of Claude 3.5 Sonnet, for example — it’s like an AI with a poetic soul, carefully crafted to handle complex queries with accuracy and simplicity, while also being mindful of sensitive topics. It’s a great reminder that even in AI, the pen (or prompt) is mightier than the code.
+
+---
+
+Imagine future archaeologists trying to piece together our digital era and what people in the early 21st century were up to. With technology evolving so fast and less physical evidence left behind, will our time become a puzzle for them?
+
+We're creating massive amounts of data and relying on cloud storage, but what happens when systems shut down or become obsolete? How much of our work, communication, and creativity could be lost to time? Will our era be defined as the digital dark ages? This thought has been going around in my head lately.
+
+How can we preserve our digital legacy so future generations can understand and learn from us?
+
+---
+
+I use Redis daily for AI workloads, often without realizing it because Redis just works. It's super fast and easy to use - it's everywhere.
+
+Yesterday, I met the Redis team at their event in Singapore, it was great to hear about their latest release and new AI offerings, including integration and vector databases, and we spoke about Redis for AI use cases. In fact, many things I build are running on a 30MB Redis Cloud instance I've had since 2017!
+
+---
+
+Looking at art pieces I made with AI back in 2021 – let's call it "Year One B.C." (Before ChatGPT).
+
+Back in those prehistoric times, it felt like science fiction to create images with just a text prompt. It's just incredible how quickly things progress in the world of AI.
+
+---
+
+All these posts about "AI doesn't know how many R's are in strawberry" — ChatGPT is only ONE of the many, many possible options for you to engage with AI.
+
+It's so interesting to do research on how LLMs behave, and how they respond to character building via large system prompts. My approach since 2021 is putting them on telegram so I can talk with them anywhere. Look how Marvin (based on Gemini 1.0 Pro), Dave (based on GPT-4 from 2023) and Zoe (based on Anthropic Claude Opus) react to the strawberry question!
+
+---
+
+Welcome Rex to Electric Minds where he will look at AI policies, ethical considerations, and inclusivity practices. With his impressive background in digital transformation and cross-functional collaboration, Rex is a perfect addition to our mission.
+
+At Electric Minds, we're all busy professionals driven by a shared passion for using AI for good. Our team members, like Rex, have busy day jobs but generously contribute their time and expertise to make a real impact. While we love bringing people together through events, our work goes beyond that. We actively engage in meaningful projects that require collaboration across organizational boundaries. By breaking down silos, we can effectively address complex challenges and drive innovation in the field of AI that benefit all of humanity. I know these are big words, but we have to start somewhere.
+
+Speaking of events, don't miss out on Katong AI Night on September 24th! Tickets are going fast, so grab yours now to join the conversation and connect with like-minded individuals. Daphne Balaji Judy Tina Manisha
+
+---
+
+So, after more than a dozen years living in Singapore, today I saw 1 cent coins for the first time!
+
+Singapore is known for its precision, and I've always wondered if we had those small coins. Usually, when the bill is $19.98 and I pay $20 in cash, there's either no change or I get back 5 cents. Ok, I suppose I was never curious enough to actually find out, but today at the bank, they gave me exact change, and I was mind-blown. Those 1 cent coins do exist!
+
+---
+
+This co-working space in Joo Chiat, Singapore has closed its doors last week, and I miss it already. I'm full of thanks that I could work from this beautiful location, seeing the colorful Koon Seng shophouses from the terrace, and there's a prata shop just across the street.
+
+I've often been in that cozy room to do calls, or put on some music and get some creative thoughts going. We even ran the first Katong AI Night at this place!
+
+But the good news is: the team are opening another location in the same neighborhood next week, and I can't wait to see it! 
+
+Crane is awesome.
