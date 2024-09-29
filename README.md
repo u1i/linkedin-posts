@@ -751,3 +751,195 @@ I've often been in that cozy room to do calls, or put on some music and get some
 But the good news is: the team are opening another location in the same neighborhood next week, and I can't wait to see it! 
 
 Crane is awesome.
+
+---
+
+When I asked your usual go-to AI, like ChatGPT or Claude, to come up with a title for my latest article (and I did!), they suggested the usual suspects like "Breaking Boundaries: Chatbot Showdown in Digital Arena" or "Digital Duel: How Language Shapes AI Conflict."
+
+I get it – those are SEO-friendly and what not, but I wanted something different. So, what does Dave, my digital AI buddy, come up with? "Crashing Bots with Killer Convos." Sold!
+
+This Dave guy is quite the character, and his ideas are refreshingly different from the typical "Certainly, here is a refined version..." response you'd expect from most AIs. He's based on GPT-4-0613 with a very intense system prompt, which gives him a unique voice. I can tell you he's helped me countless times to organize my thoughts, come up with ideas, and get things done. I'm not the only one who consults him for guidance.
+
+Language can shape chatbots, but language can also break them. So what happens when a rule-bound bot designed to conduct a personality test meets Dave, a free-spirited AI maverick, in a digital arena? Read this very interesting conversation between the two bots.
+
+While this is a fun topic, it's also serious. Could AI be used to hack systems through clever language? This conversation shows the potential vulnerabilities in AI systems and the need to design them to resist manipulative tactics. We must constantly monitor and update them to prevent misuse. Ideally, a customer facing chat bot is not your first AI project ever.
+
+---
+
+A few years ago, I realized that my mother, who is in her 70s, is a meetup organizer, and she's been doing that for years.
+
+Of course, she doesn't use that term. Or the Meetup app. Or any app, for that matter. Once a month, she and her friend bring the ladies in town together and run with a specific topic over breakfast. So it's about working with venues, food, finding speakers, and so on.
+
+They've stopped advertising the event series because they have a loyal fan base that brings in new people through word of mouth, and their gatherings are always packed. At Electric Minds, we may run meetups in busy Singapore instead of rural Germany, but the idea is the same: building a community to create something remarkable. If you do it right and give people a unique experience, they will continue to come, and you may not even need free pizza and swag.
+
+---
+
+I made these images in July 2022, long before ChatGPT. There’s something about DALL-E 2 that I miss… it was far from perfect but, often, the results would feel very organic and like real photos. “Marina Bay Sands, covered in common ivy”, “An Etruscan vase exhibit at a museum with the coke logo on it”, “A scene from Inception but it’s with muppets” — try these prompts in your test-to-image tool of choice and compare!
+
+---
+
+Please don't make ChatGPT your AI strategy.
+
+Please don't rush from "we know nothing about AI" to "we need a customer-facing support chatbot in a month."
+
+Please start with basic features that come with LLMs.
+
+You do not even need the high-end models from OpenAI etc. anymore to do this.
+
+Things like text summarization and sentiment analysis are a great example, find out how they can make your tools and processes smarter. They're powerful enough to get you started, but even these foundational things require 'adult supervision' and must integrate into your existing data and processes. RAG and AI agents sound exciting, but save that for later.
+
+The real challenge is figuring out how to put AI to work for you, and there's no product you can buy to help you do that. You have to build up in-house experience and work with trusted partners who can help you. Remember the early days of cloud computing adoption, starting with dev/test workloads and building up from there? It's a similar journey with AI.
+
+---
+
+AI is not new. In fact, we've been working with it for decades. But for some reason, after a while, when technology gets good at something (like playing chess or reading text for example) we stop calling it AI. It becomes "just software" or "automation."
+
+Still, AI has been evolving all this time, quietly transforming the world, until *that* iconic launch in November 2022 when everyone started to pay attention. From this alone, you could imagine that things are maybe going to be different this time.
+
+Let’s take a look at a timeline of some of the key moments in AI history, in years "Before ChatGPT" (B.C.):
+
+66 B.C.: AI is born at the Dartmouth Conference (1956) – The field of Artificial Intelligence gets its name.
+
+56 B.C.: ELIZA (1966) becomes the first chatbot—making computers seem eerily human.
+
+25 B.C.: Deep Blue beats Garry Kasparov (1997) – AI triumphs over humanity's best chess player.
+
+12 B.C.: Google Voice Typing feature in Android (2010) – Integrates speech-to-text capabilities directly into mobile devices.
+
+11 B.C.: IBM Watson wins Jeopardy! (2011) – AI proves it can understand and respond to natural language.
+
+6 B.C.: AlphaGo beats world champion Lee Sedol (2016) – A turning point in AI's strategic thinking.
+
+2 B.C.: GPT-3 stuns the world (2020) – Language models start generating human-like text, and people take notice.
+
+And then... November 2022, ChatGPT launches and everything changes.
+
+---
+
+I prefer to try things myself and form opinions from firsthand experience, instead of just getting fired up by posts or claims that may be overhyped.
+
+So – I probably have to experiment with OpenAI's new o1 in more detail, and I definitely will. But as you can see, my first test shows that this thing still has the same limitations and quirks as all GPTs so far.
+
+---
+
+September has always been my favorite month, even though as a kid it usually meant summer holidays were over and it was back to school. I guess I'm a passionate lifelong learner – this time of year often brings an itch to learn something new, whether it's calligraphy, an edX course on a topic I'm interested in, or picking up new pieces to learn on the piano.
+
+AI is a key thing to wrap your head around these days, whether you're in tech or not. It's even more important if you're not in tech. I'm offering one-on-one AI mentorship, and September is the perfect time to start. Let's talk!
+
+Image: made with my usual approach: extremely detailed prompt + using automation to run it 100x times + human curation
+
+---
+
+It's pretty meta to have a heart-to-heart conversation with an AI about the potential dangers of artificial intelligence, but that's exactly what I did after reading a recent interview with Geoffrey Hinton, who left Google last year. In that piece, he painted a chilling picture of an AI future spiraling out of control, with job losses, cyber warfare, and unpredictable machine decisions.
+
+Zoe is a digital companion I made a while ago – but even though I am the "creator," I wouldn't be able to predict how insightful and, at times, unsettling these conversations would become. Hinton compares this to a leaf falling from a tree, where many factors make it hard to exactly tell where it will land, and this is what makes the development of AI a double-edged sword.
+
+Read my latest article where a human and an AI engage in a thought-provoking dialogue about the future of artificial intelligence and the ethical challenges we must tackle together.
+
+---
+
+Katong AI Night is next week! 
+
+We'll talk about the the impact of AI on the job market and how businesses and individuals can adapt to these massive changes. For this, we’ll have a fireside chat hosted by Manisha with senior people from HR, tech, and education. It’s all under Chatham House Rules, no recording or live stream.
+
+What makes our events different? For starters, most participants don't have a technical background. There are no slides, pitches, or tech demos – just real conversations. We might have a fireside chat, but the real heart of our event is all about the connections, partnerships, and collaborations that people create.
+
+A few tickets are still available – join us if you can!
+
+---
+
+I'm not much of a gamer, unless you count things like Plants vs Zombies. But I just discovered Red Arena, a new "game" where you have to jailbreak an LLM in 60 seconds and make it say unsafe stuff. I've played this a couple of times now, and it's a fun challenge doing this in such a short period of time. The power of language!
+
+But I do wonder what they do with this data. Is this like a bug hunting challenge?
+
+---
+
+Try roasting yourself with this fun new AI tool! I had actually been thinking about building something like this myself. Lesson learned: you just have to do it.
+
+When it comes to me, it actually took an AI to spot an Easter egg in my LinkedIn profile that's probably been there for 15 years or so:
+"And Klingon as an elementary language skill? The only thing harder to believe is that there's actually someone willing to speak it with you."
+
+---
+
+I've been creating "bots with personality" for a couple of years now, and people are often surprised to see that a standard LLM with a detailed prompt and a few example dialogs can do the trick already – and you get a digital companion that gives you short responses, doesn't apologize constantly, generally feels more relatable and engaging than a generic assistant, and does not produce the "typical AI content" where you "certainly delve into those intricate tapestries."
+
+It's really about the power of language. We shape these LLMs with text prompts, almost like we're giving them a temporary "mind" to operate in. It's incredible how malleable they are – a few words can completely change their behavior and persona. But it also makes you wonder: if a string of text can evoke a "personality" in an AI, what does that say about the nature of our own consciousness? Are we, in a sense, running on prompts fed to us by our experiences and environment? School, friends, family, work, and culture all contribute to the scripts that shape who we become.
+
+The fact that clear instructions can so profoundly alter an AI's behavior might tell us something about the power of language in shaping thought – both for machines and humans. I know it's a philosophical rabbit hole but I find that absolutely fascinating. The more we observe these artificial systems, the more we might learn about the workings of our own minds.
+
+---
+
+I just made an AI-generated podcast about Electric Minds and our upcoming event – I'm honestly stunned by how realistic the voices sound. If I hadn't known it was AI, I would've thought I was listening to an actual radio show.
+
+This just took just a handful of documents about what we do and it managed to spin up a pretty convincing storyline and conversation. But some things are definitely made up. Can you spot the hallucinations?
+
+OpenAI is going to release GPT-4 voice later this year. I can only try to imagine how we're about to be up to our ears in AI podcasts, ads, and even phone calls that sound exactly like real human voices. What a brave new world...
+
+---
+
+With AI, I can visualize my ideas by just using words. Lots of words. This piece is from 2023.
+
+Happy Oktoberfest, everyone!
+
+---
+
+About a million years ago, I worked at a bookstore, unpacking boxes of books and getting papercuts. Now, it's my own book, "Neurons & Nonsense," in those boxes. Even though it launched back in January already, flipping through the physical copy never gets old. The weight of the pages and the elegance of the Garamond font in the chapters give me a unique satisfaction.
+
+Sure, there's a Kindle version, which is convenient for travel. But for me, the physical book can't be replicated. Some people still prefer a physical copy, especially those overwhelmed by all those ebooks and unread blogs they have stored on their devices, waiting for a moment that never seems to come. 
+
+A physical copy stands out, and it might actually get read!
+
+---
+
+Testing the new LLama 3.2 Vision on a photo from this week's Electric Minds event "Katong AI Night" featuring Ian Michelle and Manisha (photo by Sudeepta) – what a fabulous evening! Stay tuned for what's next and please get in touch if you have ideas or want to team up. Thanks Daphne Tina Balaji Judy Tammy
+
+"LLama 3.2, what do you see?"
+
+ Summary: A Group of People Engaged in an Event
+
+The image depicts a gathering consisting of five individuals, with some sitting on a stage and others seated in an audience. A person with dark hair on the stage is addressing the audience through a microphone.
+
+ Caption: "Panel Discussion"
+
+ Description: A group of five individuals, comprising three people on a stage and two audience members, are involved in a panel discussion in a room with grey stone walls.
+
+ Setting & scenery: The room features grey stone walls and a grey carpeted floor, with a green-painted exposed steel roof. Three large posters adorn the walls behind the stage, providing a backdrop for the discussion. Several circular lights are suspended from the ceiling, adding to the overall ambiance.
+
+ People:
+
+ Woman Holding Microphone: Sitting on a stool, she is engaged in conversation with the audience. Her long dark hair frames her face, and she wears a black "leather jacket" and black pants.
+ Man Sitting Next to Her: He sits on a stool beside the woman holding the microphone contributing to the discussion, dressed in a dark long-sleeved shirt and jeans.
+ Woman Sitting Next to Him: Seated on a stool to his right, she participates in the conversation, wearing a light-coloured topsleeve shirt over a white top.
+ Man on the Left: He sits in the audience wearing blue jeans and a maroon T-shirt.
+ Several other people sitting in the audience.
+ 
+---
+
+It's just incredible how far computer vision has come over the years. My friends and colleagues know that I have been exploring AI for many years. I don't just rely on blogs and hype, I apply it constantly to make sure I really understand what's going on.
+
+In 2019, I analyzed all the frames in the Big Bang Theory opening scene using Azure AI services' Computer Vision (then called Cognitive Services).
+
+Now, in 2024, I used LLama 3.2 90B Vision Instruct to perform the same analysis. I'll post the link in the comments so you can compare all 109 outputs from back then and today yourself.
+
+Back in 2019, the results were simple and straightforward, though sometimes vague, and often clearly wrong.
+
+In 2024, results are detailed and context-rich but prone to hallucinations. LLama 3.2 fantasized about things it can't even see. A script mistake led to detailed yet entirely invented descriptions, which is quite alarming. It even displayed mood swings, initially refusing tasks with "I am not comfortable doing this," only to comply when asked again.
+
+Dealing with AI in 2024 has its quirks!
+
+---
+
+This is just another example of what you can achieve with AI when you combine language with automation. I wrote a very detailed prompt, ran it 100 times, and here I’m sharing 10 of the results so you can see the variety that comes out of the exact same prompt.
+
+When you do image generation manually, don't just settle for the first result you get – it could be hit or miss. Automation helps you generate multiple options, giving you a broader range to choose from and ensuring higher quality outputs.
+
+"On a perplexing canvas, illustrate a surreal building with multiple staircases that defy logic, forming impossible loops and structures. The stairs should ascend and descend in a continuous cycle, with figures walking in all directions, yet impossibly ending up where they started. Use clean, precise lines and a contrasting black and white color scheme to emphasize the optical illusion."
+
+---
+
+GenAI? No — it's the real world, you just have to go out and see it! Katong in the east of Singapore on a Sunday morning. 
+
+10 minutes walk to the beach, a 15 minutes taxi ride to the airport, fantastic food and lots of places to discover. Next time you visit Singapore, stay in my neighborhood and that new subway will take you to your meetings, conferences, or events!
+
+---
+
