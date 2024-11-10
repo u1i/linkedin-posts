@@ -943,3 +943,341 @@ GenAI? No — it's the real world, you just have to go out and see it! Katong in
 
 ---
 
+Automation isn't just for big, complex projects – it can help you save time in everyday tasks so you can focus on what really matters. Learn some tech fundamentals and ask your favorite AI tool to help you. Of course, if you work for a corporation, please consult with your tech department to ensure you do this in a compliant way. If they don't pick up the phone, let's team up and we speak with them together!
+
+For a few weeks now, I've been in a project environment where the Wi-Fi and my MacBook clash a couple of times daily. Imagine getting coffee, returning to your laptop, and it shows "connected," but it isn't. To fix this, I must manually forget the network, reconnect, and re-enter the password, wasting minutes and brain-cycles every day. So, I wrote a quick shell script to automate the process. It's not rocket science, but it saves me time and hassle.
+
+You don't need to be a coding expert. Learn a few basic tricks, automate small tasks, and along the way, you'll even get into the whole "be more productive with AI" thing. Win-win-win.
+
+P.S. How many emails are sitting unread in your inbox right now?
+
+---
+
+It's fascinating how innovation seems to mirror the imagination of writers and filmmakers. But is it really about movies predicting the future of technology, or are we getting inspired by the things we see on screen... and we build them?
+
+Take "Back to the Future" and its flying hoverboards or "Minority Report" with its gesture-based interfaces. Did these movies foresee the future? Or did they plant a seed in the minds of innovators who thought, "Let's make that a reality"? I actually lean toward the latter: we see it, we dream it, and then someone builds it.
+
+And now with AI, especially as it starts to understand tone, melody, and emotion in your voice, we're entering a new era of human-machine interaction which includes emotion and expression. Text-to-speech is evolving into something much more human-like, where AI doesn’t just respond but understands and expresses how they "feel". Think of the film "Her" (2013) with Scarlett Johansson and Joaquin Phoenix.
+
+In a way, we're not looking at a future predicted by these films, I believe we’re seeing the influence of these stories shaping the future. Hollywood dreams, and we bring those dreams to life. It’s not prediction, it is somehow a self-fulfilling prophecy.
+
+Let's go to the movies!
+
+Image created July 2022 with DALL-E 2 with prompt "A girl in a blue hoodie and blue hair sitting on a futuristic cyberpunk train, 3mm macro close up on face"
+
+---
+
+AI Coffee is happening next week – I know our events are usually selling fast, it's even faster when they're free like this one. Sign up today! Electric Minds Daphne Tina Rex Balaji Manisha
+
+---
+
+[Picture of Marina Bay Sands] After so many years in Singapore, this one doesn't seem to get old for me! View from my desk yesterday at the office early evening.
+
+---
+
+AI and deepfakes are getting ultra realistic. Look at this video of PM Lawrence Wong playing Johnny B. Goode on guitar. If you didn't know it was AI-generated, you'd never spot it. The way he nails those riffs, the stage presence, the band interaction - it's all so convincing!
+
+Except... it's not AI at all. He actually plays the guitar, and it's a real video. Our PM rocks!
+
+[Image of a cute claymation scene] Painting images with words is great fun! Happy Friday everyone.
+
+"On a serene, summer-themed clay canvas, paint a romantic picnic by the seaside with two claymation characters. The characters should be sitting on a checkered blanket, surrounded by clay food items like sandwiches, fruits, and a picnic basket. The background includes clay-rendered waves, a lighthouse, and seagulls, all handcrafted with detailed textures. The scene should evoke a feeling of peaceful relaxation and charming simplicity."
+
+---
+
+[Photo of printed artwork wrapped in plastic] GenAI? Yes – but I had it printed on foam board so I can hang it on my wall. It's fascinating how different it feels as a physical object instead of just an image on a screen.
+
+It's like I teleported this AI artwork from 2021 into the real world. Suddenly, it's not just pixels – it's a "real" piece of art I can display and appreciate in a whole new way.
+
+---
+
+Don't make ChatGPT your AI strategy. Please don't think AI = ChatGPT.
+
+ChatGPT is great for getting started with AI, but if you're serious about this stuff, you need to move beyond that. Just look at the OpenAI developer platform – there's a whole array of LLMs to choose from. They all come with different capabilities, strengths, and cost factors that make some of them more relevant to your specific needs and use cases than others. 
+
+The "engine" you're getting with ChatGPT might just be the flavor of the day, especially if you're using the free version. You might find yourself complaining that "AI isn't great at XYZ" – but that's just because you haven't explored the full range of possibilities.
+
+There are so many incredible LLMs out there now, from companies like Anthropic, Google, Meta, Nvidia, and more. Of course, we don't expect non-tech users to deal with all these options. That's our job as developers and AI enthusiasts. We have choices, and it's up to us to use them to build amazing platforms for our users.
+
+What can you choose right now instead of ChatGPT? Well, I'm not saying don't use it, but consider exploring other, more specialized tools. For example, if you're a writer, take a look at Type.ai it's sensational, and I've been using it for over a year now!
+
+---
+
+I used AI to analyze my LinkedIn posts from this year and how they "perform" in terms of engagement with my network. This post here is "predicted" to get around 80 likes/comments... well let's see about that.
+
+The pie chart shows you the categories my posts fall into – for example, 45.1% are about AI Technology & Innovation. Now, the interesting part is where we look at the average engagement for these 5 categories:
+
+1. Personal & Professional Updates: These are posts about job changes, speaking engagements, job posts, and personal projects like my book "Neurons & Nonsense".
+
+2. Events & Networking: Posts about Katong AI Night, AI Coffee meetups, and similar events.
+
+3. AI Technology & Innovation: Discussions on LLMs, DALL-E, AI-generated art, and other AI tools and creative applications.
+
+4. AI Ethics, Education & Impact: Sharing insights on learning AI, discussing ethical implications, and the societal impact of AI.
+
+5. Singapore Life & Culture: Posts about life in Singapore, observations about the city, and personal experiences living there.
+
+Looking at the numbers, it looks like updates about my professional journey, job posts, and in-person events generate the most engagement. Interestingly, AI Technology & Innovation discussions, which make up the largest portion of my posts (45.1%), come in third for engagement. What do these numbers mean? Do they measure what resonates with you most? What the LinkedIn algorithm favors? I guess it is a combination of both.
+
+So... should I change jobs more often just for likes? Just kidding! This AI analysis was fun and eye-opening and the experiment showed me what my network likes, but more importantly, it's a practical example of how AI can help you find patterns in everyday data.
+
+---
+
+“How dare you use AI to comment on my LinkedIn post that ChatGPT carefully crafted for me?”
+
+Please, by all means, use AI to brainstorm, to structure your thoughts, and improve your work, but don't rely on it for lazy shortcuts. Will AI replace your job? I genuinely don't have the answer, but let's focus on what makes us human and things AI won't be able to do for a very long time.
+
+---
+
+So many people are looking for the next challenge. Can we enable them to use AI and work on something that has real impact on society while advancing their careers?
+
+If we're being honest, AI, with all its mind-blowing capabilities and promises, might also be one of the reasons we're starting to see disruptive changes in the global job market. But it's here now, and we can't uninvent it.
+
+Here is an idea we are discussing at Electric Minds: can we think of a setup where AI helps solve real issues, people learn by doing (instead of just taking course), and everyone benefits?
+
+Obviously, this "solution" cannot be just another app, and even though money rules the world, the motivation must be impact. This is going to take collaboration – governments, businesses, education. Can it be done?
+
+We don't have all the answers, and that's why it's so important to get together across industries to talk about this, build partnerships, and start to make things happen. Let's create targeted initiatives that apply these ideas!
+
+Photo: AI Coffee before work in Singapore this morning.
+
+---
+
+"How do you take care of your mental health, Uli?"
+
+Well, there are several answers to this question, but one of them is that I arrange 300-year-old music. Type my name into Spotify or Apple Music and you should find my album there.
+
+I find solace in JS Bach's timeless harmonies, and I've arranged some of his chorales how I think they should be played. This project let me deeply engage with music I've known for decades. I wanted to break down the complex harmonies to individual voices, assign each a unique instrument, and build them back up. This lets listeners easily identify each voice and understand how it contributes to Bach's incredible polyphonic structure.
+
+While I play piano and guitar, the instruments in this album are synthetic. Maybe one day I'd be able to put a group of musicians together for a weekend project. Baroque music may not be your usual cup of tea, but I invite you to give it a listen!
+
+---
+
+I made an AI that talks to ChatGPT for me.
+
+I get frustrated with the back-and-forth when I have something specific in mind and I keep getting "I apologize for the repeated oversight". So, I set up two "AIs" talking to each other: a customer-facing director who receives my request, and a wild creative genius who can get stuff done. The director keeps the genius in check, making sure the final product hits the mark and is in line with what I actually wanted.
+
+You will have seen how ChatGPT often makes mistakes but is able to spot them when asked to critique itself. That's because LLMs don't seem to "know" where they will land when they start producing output. My setup uses two AI agents with different roles: one critiques and shapes, while the other dreams up ideas and builds them out. It usually works great!
+
+OpenAI seems to have built a similar process into their new o1 model, where it's designed to spend more time "thinking" before responding. Not perfect yet but I can see that it's getting there. Once o1 becomes the default model for tools like ChatGPT, it'll be much easier for everyone to get better-thought-out responses without the need for complex prompting or multi-agent setups.
+
+The AI world changes at an incredible pace!
+
+---
+
+I'm excited to host a panel discussion with industry leaders at the Business+AI Forum 2024 next month, where Electric Minds is partnering with Hashmeta Group to host a major AI event in Singapore. Please use voucher code EMINDS60OFF for a 60% discount.
+
+---
+
+This weekend, I got OpenAI's GPT-2 running on my M1 MacBook Air. It works pretty well! You can try this "AI archaeology" experiment yourself. Tinkering with GPT-2 gives you a glimpse into what language models were capable of not too long ago.
+
+python text-completer.py "Once upon a time in a land far away, there was a young dragon who" --max_length 100 --temperature 0.7
+
+"Once upon a time in a land far away, there was a young dragon who had been promised a chance to appear in the land of the living. He looked up and saw a large, red dragon with a body like a horse. 'I am a priestess of the Direnni, and I can only promise you that I will give you the dragon's name.'"
+
+I had first experimented with GPT-2 back in 2020, and revisiting it in 2024 has been quite fun. While outdated compared to today's models, I think GPT-2 remains valuable for research and testing. It's a good foundation for exploring AI language generation and its applications, helping us understand both capabilities and limitations.
+
+What GPT-2 could do quite well:
+
+* Creative Writing: GPT-2 can generate engaging and imaginative narratives. For example, with the prompt above, it created a detailed and vivid fantasy story.
+
+Where GPT-2 struggled and where it's problematic:
+
+* Interactive Chat: GPT-2 struggles with maintaining consistent personas and context over multiple exchanges, making it less effective for conversational roles.
+* Misinformation and Bias: The model can produce biased or unsafe content, as prompts can lead to outputs perpetuating misinformation and stereotypes. The models we have today are much better at handling these issues, but still require careful monitoring and safeguards.
+* Repetition and Coherence: Lower temperatures lead to repetitive outputs, while higher temperatures can make the text more creative but less coherent. Finding the right balance is key.
+
+This is quite easy to set up, if you're interested in exploring GPT-2 yourself, you can find the setup instructions and Python code on my GitHub!
+
+---
+
+Let's say you're afraid AI will replace you. Yet, at the same time, when it comes to using AI, you're looking for ONE solution so you don't have to learn how to work with multiple tools and such. Do you see the problem here?
+
+---
+
+Giant sea creatures emerging from Singapore waters – it's incredible what text-to-video models are already capable of! Far from perfect, of course, but look how far this has come in such a short time. Check out this TV coverage simulation I made last night.
+
+---
+
+I'm looking forward to speaking at the "Innovating in Asia: Why Singapore is Asia’s AI Startup Hub" webinar on November 5th.
+
+Join us to explore why Singapore is at the forefront of AI innovation and how startups here are transforming the landscape.
+
+See you there! German Accelerator Start2 Group Janice
+
+---
+
+With AI, you can turn ideas into videos – you just need to put your ideas into words, ideally: lots of words. And look, it's a friendly dino playing with kids in the neighborhood!
+
+---
+
+Most large language models are failing to answer this trick question correctly. 
+
+Try it yourself on the LLM or LLM-powered chatbot of your choice and see how it responds.
+
+"There is a man, a sheep and a boat with space for one human and one animal on one side of a river. How do the man and sheep get to the other side of the river? Your response must be ultra concise."
+
+This problem looks a lot like the classic river crossing puzzle, but with a key difference that shows how AI can make surprisingly human-like mistakes when faced with familiar-looking problems.
+
+In my tests, only " classic" GPT-4 (2023) and Dave (based on that one) got it right – this model is still my top pick for highly complex tasks, despite being slower and pricier.
+
+𝐆𝐏𝐓-𝟒: The man takes the sheep in the boat across the river.
+
+𝐂𝐡𝐚𝐭𝐆𝐏𝐓 (it's not an LLM. Sometimes you don't even know which model you get here!): The man takes the sheep across, returns alone, then rows back with the sheep again. Done.
+
+𝐂𝐥𝐚𝐮𝐝𝐞.𝐚𝐢: (1) Man takes sheep across (2) Man returns alone (3) Man crosses alone. Both are now on the other side.
+
+𝐃𝐚𝐯𝐞 (based on GPT-4): Well, ain't this simple! The man's gotta row his boat to the other side with the sheep. He doesn't need a ticket or anything, just a pair of good ol' oars and some biceps. No advanced quantum physics bullsh** required. Easy peasy, lemon squeezy!
+
+𝐍𝐯𝐢𝐝𝐢𝐚’s new Llama-3.1-nemotron-70b-instruct: (1) Man takes sheep across. (2) Man returns alone. (3) Man takes himself across.
+
+𝐒𝐨𝐧𝐧𝐞𝐭 𝟑.𝟓: (1) Man takes sheep across. (2) Man returns alone. (3) Man crosses alone. (4) Man returns with sheep. (6) Man takes sheep across. Both are now on the other side.
+
+𝐆𝐏𝐓-𝟒𝐨: (1) Man takes sheep across, leaves it, returns alone. (2) Man crosses with boat, leaves sheep, returns. (3) Man crosses alone, retrieves sheep, all cross together.
+
+𝐐𝐰𝐞𝐧 𝟐.𝟓 𝟕𝟐𝐁: (1) Man takes sheep across. (2) Man returns alone. (3) Man takes sheep back. (4) Man leaves sheep and crosses alone. (5) Man returns and takes sheep across.
+
+𝐏𝐡𝐢-𝟑: The man takes the sheep across the river first, then returns alone to take the sheep across again.
+
+𝐆𝐫𝐨𝐤-𝟐: (1) Man takes sheep across, leaves sheep, returns alone. (2) Man crosses with the sheep again.
+
+𝐆𝐨𝐨𝐠𝐥𝐞 Gemini-1.5-pro: Man takes sheep across, returns alone.
+
+𝐌𝐢𝐬𝐭𝐫𝐚𝐥 𝟐: Man rows boat, taking sheep first. Man leaves sheep, returns alone. Man takes boat with him. Man then rows back with boat to take himself.
+
+---
+
+Great to see that Grok-2 from xAI is now available on lmarena.ai for anyone to explore, and for the geeks, it's accessible via API on openrouter.ai.
+
+I couldn't get my hands on this elusive AI model before because I'm not a paying Twitter/X user, and I definitely don't have a GPU cluster under my desk to run this beast!
+
+So far, I've heard mixed reviews about Grok-2, but I need to test it myself. When a new LLM drops, we should make it openly accessible for researchers so they can examine its capabilities and limitations.
+
+---
+
+𝗜 𝗳𝗶𝗻𝗱 𝗡𝗩𝗜𝗗𝗜𝗔'𝘀 𝗻𝗲𝘄 𝗟𝗟𝗠 𝘄𝗶𝘁𝗵 𝘁𝗵𝗲 𝗻𝗲𝗿𝗱𝘆 𝗻𝗮𝗺𝗲 𝗿𝗲𝗮𝗹𝗹𝘆 𝗶𝗺𝗽𝗿𝗲𝘀𝘀𝗶𝘃𝗲. 𝗧𝗼 𝗺𝗲, 𝗶𝘁 𝗽𝗹𝗮𝘆𝘀 𝗶𝗻 𝘁𝗵𝗲 𝘀𝗮𝗺𝗲 𝗹𝗲𝗮𝗴𝘂𝗲 𝗮𝘀 𝗚𝗣𝗧-𝟰𝗼 𝗮𝗻𝗱 𝗔𝗻𝘁𝗵𝗿𝗼𝗽𝗶𝗰'𝘀 𝗖𝗹𝗮𝘂𝗱𝗲 𝗦𝗼𝗻𝗻𝗲𝘁 𝟯.𝟱 – 𝗮𝗻𝗱 𝗶𝘁'𝘀 𝗼𝗽𝗲𝗻!
+
+How often have you heard me use the word 'game changer' in my LinkedIn posts? It must be exactly zero times. I'm allergic to this overused word, especially when people parrot news about new "breakthrough" LLMs that "dropped" without verifying or testing the models they're talking about.
+
+I'm now tempted to use that term when talking about NVIDIA's new Llama-3.1-Nemotron-70B-Instruct model. I've tested it extensively over the last couple of days, and I'm genuinely impressed with its capabilities. Complex reasoning, adaptable tone, and nuanced understanding of context. One of my typical test cases involves creating a distinct bot "personality" and chatting with it in various settings about random topics. On the bus, over coffee, random occasions. I check if it can follow conversations, try to gaslight it, ask trick questions, and see if it remembers our past interactions.
+
+Try this out to see if it meets your advanced needs. For those wanting advanced capabilities without sending data to AI providers. Deploy on your own infrastructure to keep your data secure!
+
+---
+
+𝑰 𝒘𝒂𝒔 𝒊𝒏𝒕𝒆𝒓𝒗𝒊𝒆𝒘𝒆𝒅 𝒃𝒚 𝑨𝑰 - 𝒂𝒏𝒅 𝑰 𝒍𝒐𝒗𝒆𝒅 𝒉𝒐𝒘 𝒊𝒕 𝒘𝒆𝒏𝒕!
+
+We usually interact with AI the same way: we ask, chatbots answer. We type questions and get responses starting with "Certainly..." That's how most of us use ChatGPT and other AI tools.
+
+For a couple of years now, I've been creating AI-powered digital companions that behave, well, more like real people in conversation and my regular readers are familiar with some of these characters. Recently, I experimented with NVIDIA's new llama-3_1-nemotron-70b-instruct model to create Percival, a well-read, slightly eccentric British scholar.
+
+After a few days of conversation and him reading some of my work, I let Percival interview me. He chose the theme, the setting, and the questions. What you see in this article is the first shot – no guidance from me and zero edits. It turned out really, really good!
+
+When you read it, you might even learn something new about me... I know I did!
+
+---
+
+Happy Friday from Singapore, everyone!
+
+I'm taking a day to catch up on the latest AI developments and put some of the new LLMs to the test. Here's to a day of learning and experimenting!
+
+---
+
+In my DevOps class at National University of Singapore, a student asked me, "Why did you decide to become a DevOps person?" and I didn't have an answer right away. As long as I can recall I was in that mindset, but when I started working, the term "DevOps" hadn't even been invented yet. So, I had to take a moment before responding.
+
+My first job was in software development, and I was given a choice between sticking with Windows, which I knew from school, or diving into the unfamiliar world of Unix. I went with Unix because I've always been drawn to the new and challenging (this decision would essentially set the scene for everything that came after. I use VIM and bash etc to this very day.)
+
+Later, at Yahoo, I had my first real experience with what we now call DevOps. I was building bridges between development and operations, automating processes, and constantly learning. For me, DevOps has always been about embracing complexity, solving problems, and eventually automating myself out of the process so I could move on to the next challenge.
+
+Now, with AI, I feel it's the same pattern. While tools and models evolve rapidly, making today's expertise feel outdated tomorrow, we learn to adapt by understanding the core patterns and principles beneath the surface. Staying relevant in AI's fast-moving landscape demands constant attention and ongoing learning - it's admittedly exhausting and not everyone's cup of tea, but it's the price we pay to remain at the cutting edge of AI innovation.
+
+---
+
+Have a look at how AI-assisted coding looks like in vi, my editor of choice since decades. Okay, I'll admit I also use VS Code these days. But anyway – do you see how it's creating code simply based on the comments I add into the file, and I just hit "Tab" to accept it? If you had shown me this a just a few years ago I would have thought of it as science fiction. Scotty from Star Trek giving us a tool from the future to talk to our computers and have them write code for us.
+
+---
+
+Over the past few months, I've been using AI coding assistants every day, and it's changed everything for me. I'm not just talking about quick tests or "Hello, World!" projects – I'm using these tools to quickly build prototypes, analyze and refactor existing codebases, generate API wrappers and create documentation.
+
+After the initial "wow" it took me a while to get used to this new way of working, but I can confidently tell you it feels absolutely next level, let's compare it to moving from typewriter to word processor, or from paper maps to GPS navigation. No way of turning back. These AI coding assistants have become my "copilots" for navigating code and data.
+
+To be sure – while I now spend less time writing code or digging through data, more effort goes into to debugging and fixing issues. Overall, I invest significantly less time than before, but I still need to fully understand the code I produce since I am ultimately accountable for its quality and performance. It also means I couldn't just use these tools to produce code that's totally alien to me (mobile apps for example) without having a solid understanding of mobile development principles and best practices. It just wouldn't work out, at least not for me.
+
+So, how can you get started with this and make the most of these powerful AI coding tools in your daily work? Check out my latest article!
+
+I highly recommend reading Georg's comprehensive report "Report: The AI Assisted Coding Landscape in October 2024" - you'll find the link in the comments below.
+
+---
+
+Integrating live web search results into the AI's context window helps prevent hallucinations by providing real-time, factual information. When an AI model has access to current data, it's less likely to fabricate information to fill knowledge gaps.
+
+Now, while everyone's buzzing about ChatGPT's new search features, I'm much more excited about Google's new "Grounding" capability in their Gemini APIs. This feature enables their language models to directly access Google Search results within their context window, eliminating the need for developers to manually implement function calls or craft complex prompts. What makes this especially powerful is that the model provides supporting links and confidence scores, giving end users the transparency they need to build more reliable, real-time applications.
+
+Try it out in the Gemini AI Studio!
+
+---
+
+A new Bond film, a sequel to 'The Grand Budapest Hotel', Back to the Future IV, and Muppets action movie – trying out the new "flux-1.1-pro" text-to-image model to make movie posters for films I'd totally watch. The outputs look great, and it can even produce text quite reliably!
+
+"A movie poster for the upcoming film 'Back to the Future IV', set in Egypt. Release date: June 2025"
+
+---
+
+Help me make our panel on the future of AI truly relevant —submit your questions below, and you could win a free ticket ($100 value) to the Business+AI Forum 2024 in Singapore!
+
+I’m hosting a panel on “Future of AI: Opportunities and Challenges,” and I want this discussion to reflect what really matters to you. What are the most pressing AI questions or challenges that should be on the table when you're looking at the coming years and decades?
+
+Share your thoughts in the comments. I'll let AI randomly pick a winner, and we’ll dive into the questions live during the panel. Let’s make this conversation as impactful as possible, together.
+
+---
+
+Why is there no simple SaaS solution to secure an API endpoint in 2024?
+
+I’m just looking for a SaaS solution (ok call it PaaS if you must) with a free tier that lets me secure an API quickly. I want API keys, rate limiting, and caching in a straightforward setup - no self-hosting, no endless configuration. Something I can have my students play around with, something to use if you want to get started.
+
+Here’s what I’ve been trying so far:
+
+Kong Konnect came the closest - pretty much what I want and easy to setup, but only a 30-day free trial with no permanent free tier.
+
+Apigee on Google Cloud: I tried doing this entirely through gcloud command-line tools with GPT-4o helping. Half an hour later, still nothing working.
+
+AWS with the help of Anthropic’s Sonnet 3.5 v2: eventually worked, but the setup was complex and felt more suited to infrastructure engineers than software developers. Can you guys make a Fisher-Price version, similar to AWS Lightsail?
+
+Cloudflare: using GPT-4o, I managed to get it working, using a sophisticated setup with workers and rules, but it involved pasting code and configuring policies... not exactly quick or developer-friendly.
+
+Ngrok: a service I love for other uses, but I couldn’t find a way to add API keys or get the advanced protection I needed.
+
+What I want is a developer-friendly SaaS solution where I can simply secure an endpoint with API keys, rate limits, and caching, and an entry level free tier.
+
+A few years ago, I enjoyed Axway’s Amplify free tier, just a few clicks to set up an API proxy, and it was done. Where did that go?
+
+Anyone found something like this, or is it time to build it?
+
+---
+
+I'm excited to collaborate with Keith on this masterclass about AI for non-tech people, a topic I'm really passionate about.
+
+If you're curious about AI but don't know where to start, this is for you. We'll explain how AI works in simple terms and show you practical AI workflows you can use right away.
+
+And no, it's not a ChatGPT training! We'll help you gain confidence using AI tools on your own and develop strategies to apply them to your specific business scenarios.
+
+Join us on Tue, 10 Dec 2024 from 6 PM - 9 PM. Let's explore AI together!
+
+Companies with an office in CBD – feel like collaborating? Please get in touch!
+
+---
+
+Heading to the Singapore Fintech Festival now — ping me if you want to catch up!
+
+If you're visiting Singapore for the event, I hope you'll have a moment to check out my beautiful neighborhood Katong/Joo Chiat, it's a short bus ride away from the venue and directly on the way if you're heading into the central business district.
+
+---
+
+Generative AI? No. Apple's new top secret portable AI data center? Also no — this was my work machine at the office 20 years ago. Those were the days!
+
+Photo: G4 Power Mac
+---
+
+"A capsule bed in the style of R2D2" — this was my first-ever prompt when I got access to DALL-E 2 in June 2022. Now, in November 2024, I thought I’d try it again, exactly as it was, and compare it across some of today’s image models—DALL-E 3, Flux 1.1, Stable Diffusion.
+
+It’s fascinating to see how different (and sometimes unexpected) the results are compared to those from two and a half years ago. Even with such a simple prompt, each model interprets it uniquely, showing just how far these tools have come. I will admit that sometimes, I do miss the early models and it's a shame we no longer have them.
